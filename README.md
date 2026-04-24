@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Github, AWS All Services, Kubernetes, Dokcer**
 
-- 📫 How to reach me **maheshkarande957@gmail.com**
+- 📫 How to reach me **maheshpkarande1@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGbPiYCyas/AOMKrBugaORYKNnJMizIrA/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0](https://www.canva.com/design/DAGbPiYCyas/AOMKrBugaORYKNnJMizIrA/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
 
